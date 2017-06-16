@@ -18,10 +18,6 @@ Run shifts at severeal service type industry teams, catered for large events and
 #### Communication and client handling
 
 From basic customer service in a coffee-shop to managing and guiding talent in their use of their social media channels, to small residential projects.
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
 
 ## Education
 
@@ -39,7 +35,6 @@ From basic customer service in a coffee-shop to managing and guiding talent in t
 - BA(Hons) Architecture International
 - Foundation Degree in Architecture
 
-#### Any other qualifications
 
 ## Experience
 
