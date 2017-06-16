@@ -1,21 +1,23 @@
-## Your Name
+## Unai Motriko Gomez
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+Passionate about personal and professional growth, fascinated with learning and the creation of things.Makers Academy graduate and looking forward to making the world better through coding. Value the oportunity to work (and learn) with people that seek to improve our society and love to make great products with beautifully crafted code.
 
 ## Skills
 
-#### This Skill
+#### Leadership
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Part of the driving force behind collaborative projects such as a grass-root youth-oriented ngo, working with young adults in their aim to create tools for growth and a framework in which to use those tools.
+Lead in projects involving the local council, volunteers and local youth such us:
+- Guerrilla style filming workshops.
+- Traditional Basque poetry slam sessions.
+- Sex health and education workshops. 
 
-- Experience
-- Achievements
-- Evidence
+Run shifts at severeal service type industry teams, catered for large events and small coffee shops.
 
-#### Another Skill
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+#### Communication and client handling
 
+From basic customer service in a coffee-shop to managing and guiding talent in their use of their social media channels, to small residential projects.
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
@@ -23,7 +25,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2017-June 2017)
 
 - Curiosity and hungry passion for code
 - Independent learner and problem-solver
@@ -32,17 +34,16 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, Javascript, Node.js, Angular.js
 - Rspec, Jasmine, Mocha
 
-#### Your University / College (start_date to end_date)
+#### Huddersfield University (2003-2008)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA(Hons) Architecture International
+- Foundation Degree in Architecture
 
 #### Any other qualifications
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**Freelance Social Media Manager** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
 *Your job title*  
